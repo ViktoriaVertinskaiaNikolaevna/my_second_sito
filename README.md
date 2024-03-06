@@ -1,1 +1,3 @@
-# my_second_sito
+# my_second_websito
+- CSS
+- HTML
